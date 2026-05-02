@@ -2,18 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Senior Data & AI Engineer · GenAI · RAG · LLM · Vertex AI · 12+ years
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
+    <p>Hartford, CT</p>
+    <p>Open to Senior/Lead Cloud, Data, AI, ML Engineering Roles</p>
+selected_papers: false # includes a list of papers marked as "selected={true}"
+news: false
+latest_posts: true
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,8 +27,27 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m a Senior Data & AI Engineer with 12+ years of experience building systems that actually survive production — not just demos that look good in slide decks.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I’ve worked across GCP, Databricks, Snowflake, AWS, and Azure, but these days I spend most of my time in the world of Generative AI — designing and shipping real-world LLM systems in regulated environments. Recently, that meant architecting a modular GenAI platform on Google Vertex AI, with production-grade RAG pipelines, vector search, and LLM applications for document processing, decision support, and Q&A over messy, real enterprise data.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I started my career deep in consulting and data engineering, and that still shows up in how I approach AI. I care about what most people skip:
+    •  where the data comes from
+    •	how it’s grounded
+    •	what happens when it’s wrong
+    •	and how systems behave when they scale (or break)
+    
+In short: I don’t just build models — I build systems around them that people can actually trust and use.
+
+I’m equally comfortable debating architecture with stakeholders, mentoring engineers, or getting into the weeds and fixing a pipeline at 2 AM (preferably with coffee).
+
+This site is my working portfolio — part case study, part lab notebook. You’ll find:
+    •	RAG systems and GenAI architectures
+    •	experiments with evaluation and agentic workflows
+    •	honest breakdowns of what worked… and what didn’t
+    •	and stories of things that I learnt in life hopefully you will take a thing or two from here before you leave..
+    
+Some things here are polished. Some are intentionally rough — because that’s how real systems get built.
+
+If you’re hiring for Senior/Lead roles in AI, Data, or Cloud — or just want to talk about building Data/AI/LLM systems that don’t fall apart in production - [find me on LinkedIn](https://www.linkedin.com/in/rashmi-ullikashi/).
+
