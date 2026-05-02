@@ -49,5 +49,4 @@ This site is my working portfolio — part case study, part lab notebook. You’
     
 Some things here are polished. Some are intentionally rough — because that’s how real systems get built.
 
-If you’re hiring for Senior/Lead roles in AI, Data, or Cloud — or just want to talk about building Data/AI/LLM systems that don’t fall apart in production - [find me on LinkedIn](https://www.linkedin.com/in/rashmi-ullikashi/).
-
+If you’re hiring for Senior/Lead roles in AI, Data, or Cloud — or just want to talk about building Data/AI/LLM systems that don’t fall apart in production - [find me on LinkedIn].
