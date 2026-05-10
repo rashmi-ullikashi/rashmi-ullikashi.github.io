@@ -9,17 +9,11 @@ profile:
   image: prof_pic.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>hartford, ct</p>
-    <p>open to senior/lead cloud, data, AI/ML engineering roles</p>
+    <p>Hartford, CT</p>
+    <p>Open to senior/lead cloud, data, AI/ML engineering roles</p>
 selected_papers: false # includes a list of papers marked as "selected={true}"
-news: false
 latest_posts: true
 social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
