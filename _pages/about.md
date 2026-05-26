@@ -23,7 +23,7 @@ latest_posts:
 
 I’m a Senior Data & AI Engineer with 12+ years of experience building systems that actually survive production — not just demos that look good in slide decks.
 
-I’ve worked across GCP, Databricks, Snowflake, AWS, and Azure, but these days I spend most of my time in the world of Generative AI — designing and shipping real-world LLM systems in regulated environments. Recently, that meant architecting a modular GenAI platform on Google Vertex AI, with production-grade RAG pipelines, vector search, and LLM applications for document processing, decision support, and Q&A over messy, real enterprise data.
+I’ve worked across GCP, Databricks, Snowflake, AWS, and Azure, but these days I spend most of my time in the world of Generative AI — designing and shipping LLM systems.
 
 I started my career deep in consulting and data engineering, and that still shows up in how I approach AI. I care about what most people skip:
 
@@ -38,9 +38,9 @@ I’m equally comfortable debating architecture with stakeholders, mentoring eng
 
 This site is my working portfolio — part case study, part lab notebook. You’ll find:
 
-- RAG systems and GenAI architectures
-- experiments with evaluation and agentic workflows
 - honest breakdowns of what worked… and what didn’t
+- experiments with evaluation and agentic workflows
+- Cloud, RAG systems and GenAI architectures
 - and stories of things that I learnt in life hopefully you will take a thing or two from here before you leave.
     
 Some things here are polished. Some are intentionally rough — because that’s how real systems get built.
