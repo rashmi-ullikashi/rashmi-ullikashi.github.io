@@ -4,8 +4,8 @@ title: "Chaos has impeccable timing"
 subtitle: "Why I'm still asking why"
 date: 2026-05-13 10:00:00-0500
 description: "Chaos has impeccable timing — and a few other things I've learned about adulthood, career pivots, and why curiosity still matters when the systems around you are changing faster than you are."
-tags: personal career ai
-categories: essay
+tags: [personal, career, ai]
+categories: [essay]
 giscus_comments: false
 related_posts: false
 ---
