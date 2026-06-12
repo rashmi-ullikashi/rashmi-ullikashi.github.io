@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Data & AI Engineer · GenAI · RAG · LLM · Vertex AI · 12+ years
+subtitle: Senior Data & AI Engineer · GenAI · RAG · LLM · Vertex AI · 11+ years
 
 profile:
   align: right
@@ -10,8 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Hartford, CT</p>
-    <p>Open to senior/lead cloud, data, AI/ML engineering roles</p>
-selected_papers: false # includes a list of papers marked as "selected={true}"
+    selected_papers: false # includes a list of papers marked as "selected={true}"
 latest_posts: true
 social: true # includes social icons at the bottom of the page
 
@@ -21,9 +20,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a Senior Data & AI Engineer with 12+ years of experience building systems that actually survive production — not just demos that look good in slide decks.
+I’m a Senior Data & AI Engineer with 11+ years of experience building systems that actually survive production and not just demos that look good in slide decks.
 
-I’ve worked across GCP, Databricks, Snowflake, AWS, and Azure, but these days I spend most of my time in the world of Generative AI — designing and shipping LLM systems.
+I’ve worked across GCP, Databricks, Snowflake, AWS, and Azure, and I spend of some of my time in the world of Generative AI, Claude and OpenAI APIs.
 
 I started my career deep in consulting and data engineering, and that still shows up in how I approach AI. I care about what most people skip:
 
@@ -36,13 +35,13 @@ In short: I don’t just build models — I build systems around them that peopl
 
 I’m equally comfortable debating architecture with stakeholders, mentoring engineers, or getting into the weeds and fixing a pipeline at 2 AM (preferably with coffee).
 
-This site is my working portfolio — part case study, part lab notebook. You’ll find:
+This site is my (in progress)working portfolio which is part case study, part lab notebook. You’ll find:
 
 - honest breakdowns of what worked… and what didn’t
 - experiments with evaluation and agentic workflows
 - Cloud, RAG systems and GenAI architectures
 - and stories of things that I learnt in life hopefully you will take a thing or two from here before you leave.
     
-Some things here are polished. Some are intentionally rough — because that’s how real systems get built.
+Some things here are polished. Some are intentionally rough because that’s how real systems get built.
 
-If you’re hiring for Senior/Lead roles in AI, Data, or Cloud — or just want to talk about building Data/AI/LLM systems that don’t fall apart in production - [find me on LinkedIn](https://www.linkedin.com/in/rashmi-ullikashi/).
+If you want to talk about building Data/AI/LLM systems that don’t fall apart in production - [find me on LinkedIn](https://www.linkedin.com/in/rashmi-ullikashi/).
