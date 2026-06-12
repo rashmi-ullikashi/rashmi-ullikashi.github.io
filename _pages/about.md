@@ -30,7 +30,7 @@ I started my career deep in consulting and data engineering, and that still show
 - what happens when it’s wrong
 - and how systems behave when they scale (or break)
     
-In short: I don’t just build models — I build systems around them that people can actually trust and use.
+In short: I don’t just build models. I build systems around them that people can actually trust and use.
 
 I’m equally comfortable debating architecture with stakeholders, mentoring engineers, or getting into the weeds and fixing a pipeline at 2 AM (preferably with coffee).
 
