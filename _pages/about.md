@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Hartford, CT</p>
 latest_posts: true
 social: true # includes social icons at the bottom of the page
 
