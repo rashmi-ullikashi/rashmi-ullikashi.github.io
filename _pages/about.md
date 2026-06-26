@@ -20,7 +20,7 @@ latest_posts:
 
 I’m a Senior Data & AI Engineer with 11+ years of experience building systems that actually survive production and not just demos that look good in slide decks.
 
-I’ve worked across GCP, Databricks, Snowflake, AWS, and Azure, and I spend of some of my time in the world of Generative AI, Claude and OpenAI APIs.
+I’ve worked across GCP, Databricks, Snowflake, AWS, and Azure, and I spend some of my time in the world of Generative AI, Claude and OpenAI APIs, LLMs and RAG systems.
 
 I started my career deep in consulting and data engineering, and that still shows up in how I approach AI. I care about what most people skip:
 
@@ -33,7 +33,7 @@ In short: I don’t just build models. I build systems around them that people c
 
 I’m equally comfortable debating architecture with stakeholders, mentoring engineers, or getting into the weeds and fixing a pipeline at 2 AM (preferably with coffee).
 
-This site is my (in progress)working portfolio which is part case study, part lab notebook. You’ll find:
+This site is my (in progress)working portfolio which is part case study, part lab notebook, and part musings. You’ll find:
 
 - honest breakdowns of what worked… and what didn’t
 - experiments with evaluation and agentic workflows
@@ -42,4 +42,4 @@ This site is my (in progress)working portfolio which is part case study, part la
     
 Some things here are polished. Some are intentionally rough because that’s how real systems get built.
 
-If you want to talk about building Data/AI/LLM systems that don’t fall apart in production - [find me on LinkedIn](https://www.linkedin.com/in/rashmi-ullikashi/).
+If you want to reach out to then feel free to drop a message - [find me on LinkedIn](https://www.linkedin.com/in/rashmi-ullikashi/).
