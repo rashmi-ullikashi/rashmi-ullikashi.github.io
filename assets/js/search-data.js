@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-chaos-has-impeccable-timing",
+        },{id: "post-do-you-trust-this-folder",
+        
+          title: "Do you trust this folder?",
+        
+        description: "Mentor, mentee, or partner?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/do-you-trust-this-folder/";
+          
+        },
+      },{id: "post-chaos-has-impeccable-timing",
         
           title: "Chaos has impeccable timing",
         
