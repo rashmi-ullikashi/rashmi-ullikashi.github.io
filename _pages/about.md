@@ -33,7 +33,7 @@ In short: I don’t just build models. I build systems around them that people c
 
 I’m equally comfortable debating architecture with stakeholders, mentoring engineers, or getting into the weeds and fixing a pipeline at 2 AM (preferably with coffee).
 
-This site is my (in progress)working portfolio which is part case study, part lab notebook, and part musings. You’ll find:
+This site is my (in-progress) working portfolio which is part case study, part lab notebook, and part musings. You’ll find:
 
 - honest breakdowns of what worked… and what didn’t
 - experiments with evaluation and agentic workflows
@@ -42,4 +42,4 @@ This site is my (in progress)working portfolio which is part case study, part la
     
 Some things here are polished. Some are intentionally rough because that’s how real systems get built.
 
-If you want to reach out to then feel free to drop a message - [find me on LinkedIn](https://www.linkedin.com/in/rashmi-ullikashi/).
+If you want to reach out then feel free to connect/drop a message on here - [find me on LinkedIn](https://www.linkedin.com/in/rashmi-ullikashi/).
